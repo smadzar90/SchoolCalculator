@@ -1,0 +1,19 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Oct 9, 2022, 11:59:36 PM
+    Author     : stipanmadzar
+*/
+
+.root {
+    -fx-font-family: "Arial";
+}
+
+.label {
+    
+    -fx-font-weight: bold;
+}
+
+
